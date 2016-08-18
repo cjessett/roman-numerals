@@ -49,5 +49,10 @@ section#arabic {
   background: url(ico-search.png) no-repeat center #357AE8;
   border: 1px solid #2F5BB7;
 }
-/* Clear floats */
-/*.fclear {clear:both}*/
+
+section#arabic > p {
+  font-style: bold;
+  font-size: 24px;
+  max-width: 250px;
+  text-align: center;
+}
